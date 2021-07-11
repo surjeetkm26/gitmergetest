@@ -9,7 +9,7 @@ public class HelloProgram {
 		System.out.println("Merge Sort");
 	}
 	public static void main(String[] args) {
-
+		System.out.println("Hey");
 		for(int i=0;i<10;i++) {
 			m("Hey!"+ i);
 		}
