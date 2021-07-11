@@ -10,6 +10,7 @@ public class HelloProgram {
 		for(int i=0;i<10;i++) {
 			m("Hey!"+ i);
 		}
+		System.out.println("Good Morning");
 	}
 
 }
